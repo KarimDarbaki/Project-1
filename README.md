@@ -1,5 +1,5 @@
-##1. UMN_GroupProject_2 
-##1. Table of Contents
+UMN_GroupProject_2 
+Table of Contents
 1. [ Motivation For Project. ](#motiv)
 2. [ General Info. ](#Gen)
 3. [ Building Status. ](#buildingstatus)
