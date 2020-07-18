@@ -4,9 +4,10 @@ Table of Contents
 2. [ General Info. ](#Gen)
 3. [ Building Status. ](#buildingstatus)
 4. [ Framework Used. ](#framework)
+
 Motivation For Project
-<a name="motiv"></a>
 ## 1. Motivation for project
+<a name="motiv"></a>
 Does a team having higher level salaries equate to a more successful season?
 General Info
 ## 2. General Info  
