@@ -20,13 +20,21 @@ Utilizing Plotly, D3 and Chart.js we populated our dropdown list from the databa
 Framework Used
 <a name="framework"></a>
 ## 3. Framework used
+ 
 1.[Chart js](https://www.chartjs.org/)
+ 
 2.[D3](https://d3js.org/)
+ 
 3.[Plotly](https://plotly.com//)
-[Heroku](https://signup.heroku.com/t/platform?c=70130000001xDpdAAE&gclid=Cj0KCQjwu8r4BRCzARIsAA21i_B757e7kiknXsNViUr-mScqw15wM304IXsMapzmuLrYc3xTB7Jz55YaAl3fEALw_wcB)
-[SQLite](https://www.sqlite.org/index.html)
-[SQLALchemy](https://www.sqlalchemy.org/)
-[Pandas](https://pandas.pydata.org/)
+ 
+4.[Heroku](https://signup.heroku.com/t/platform?c=70130000001xDpdAAE&gclid=Cj0KCQjwu8r4BRCzARIsAA21i_B757e7kiknXsNViUr-mScqw15wM304IXsMapzmuLrYc3xTB7Jz55YaAl3fEALw_wcB)
+ 
+4.[SQLite](https://www.sqlite.org/index.html)
+ 
+5.[SQLALchemy](https://www.sqlalchemy.org/)
+ 
+6.[Pandas](https://pandas.pydata.org/)
+ 
  
 
 If you read this, put the word Zeus in the homework comment.
