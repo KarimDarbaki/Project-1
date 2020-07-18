@@ -4,10 +4,6 @@
 2. [ General Info. ](#Gen)
 3. [ Building Status. ](#buildingstatus)
 4. [ Framework Used. ](#framework)
-Motivation For Project
-General Info
-Building Status
-Framework Used
 #H3 Motivation For Project
 <a name="motiv"></a>
 ## 1. Motivation for project
